@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">⚡ Marcos ⚡</h1>
 
-<!--
-**M8987/M8987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Estudante de Python <br>
+  🏆 Apaixonado por esportes <br>
+  ✨ Sempre aprendendo algo novo
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+
+> “Happiness can be found in the darkest of times, if one only remembers to turn on the light.”  
+> — Albus Dumbledore, :contentReference[oaicite:0]{index=0}
+
+</p>
+
+---
+
+# 🚀 Sobre Mim
+
+Olá! Meu nome é **Marcos** 👋
+
+Sou estudante de **Python** e apaixonado por tecnologia, programação e esportes.  
+Gosto de aprender coisas novas, criar projetos e evoluir todos os dias.
+
+---
+
+# 🛠 Tecnologias que estou estudando
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50">
+</p>
+
+---
+
+# 🎯 Objetivos
+
+- 📚 Aprender cada vez mais Python
+- 🚀 Criar projetos incríveis
+- 💡 Evoluir como desenvolvedor
+- 🏅 Manter disciplina nos esportes e estudos
+
+
+---
+
+# 🌎 Contato
+
+- GitHub: :contentReference[oaicite:1]{index=1}  
+- Instagram: :contentReference[oaicite:2]{index=2}  
